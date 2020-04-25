@@ -1,0 +1,15 @@
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\bin\Debug\WPF_Frection.exe.config
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\bin\Debug\WPF_Frection.exe
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\bin\Debug\WPF_Frection.pdb
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\WPF_Drob.csprojAssemblyReference.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\MainWindow.g.cs
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\App.g.cs
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\WPF_Frection_MarkupCompile.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\WPF_Frection_MarkupCompile.lref
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\MainWindow.baml
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\WPF_Frection.g.resources
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\WPF_Frection.Properties.Resources.resources
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\WPF_Drob.csproj.GenerateResource.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\WPF_Drob.csproj.CoreCompileInputs.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\WPF_Frection.exe
+C:\Users\kuruc\OneDrive\Рабочий стол\source\WPF_Frection\obj\Debug\WPF_Frection.pdb
